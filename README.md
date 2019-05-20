@@ -6,7 +6,12 @@ Collection of game development information.
 * [So You Want to Have a Kick-Ass Steam Page](https://www.reddit.com/r/gamedev/comments/bag8qt/so_you_want_to_have_a_kickass_steam_page/)
 * [Common Gamedev Mistakes](https://www.reddit.com/r/gamedev/comments/b6gh70/common_gamedev_mistakes_part_of_my_job_is_to/)
 * [My big ass list of shit to do before launch](https://www.reddit.com/r/gamedev/comments/9v9tcd/my_big_ass_list_of_shit_to_do_before_launch/)
+* [How to Consistently Make Profitable Indie Games](https://www.youtube.com/watch?v=LlAc5sBtGkc)
+* [BIG List of Video Game Public Relations Agencies and Freelancers](http://www.jesusfabre.com/list-of-videogame-public-relations-agencies-freelancers/)
+* [What I Wish I’d Known Before Starting as a Game Developer](http://heyyouvideogame.com/15-video-game-developers-chime-in-what-i-wish-id-known-before-starting-as-a-game-developer/)
 
+### Level Design
+* [Level Design Compendium](https://trello.com/b/AM3ZOmAd/level-design-compendium)
 
 ## Unity 2D
 
@@ -24,6 +29,13 @@ Collection of game development information.
 
 ### Art
 * [Lighting Tips](https://www.reddit.com/r/PixelArt/comments/bls201/oc_simple_lighting_tips_more_lighting_tuts_linked/)
-* [Make your game look goof if you're not an artist](https://www.youtube.com/watch?v=xMgNBP8yJeU)
+* [Make your game look good if you're not an artist](https://www.youtube.com/watch?v=xMgNBP8yJeU)
 * [Pixel Art Tutorials Database](https://lospec.com/pixel-art-tutorials)
 * [Hair Design for VideoGames](https://blog.camposanto.com/post/171638832704/zora-is-one-of-the-two-main-characters-in-our)
+* [Pixel Game Art Compilation](https://imgur.com/gallery/iG8VF)
+* [How to create an Inner Glow Shader Technique](https://www.reddit.com/r/Unity2D/comments/7hg2dg/how_to_create_an_inner_glow_shader_technique/)
+
+### Sound
+* [1439 Instrumental Pieces](https://www.reddit.com/r/gamedev/comments/798ti9/i_have_released_my_1439_instrumental_pieces_free/)
+* [20GB+ of High Quality Audio Assets - The GameAudioGDC Bundle - 2017](https://sonniss.com/gameaudiogdc2017/)
+
